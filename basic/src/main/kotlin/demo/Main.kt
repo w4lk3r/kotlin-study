@@ -13,10 +13,10 @@ fun main(args: Array<String>) {
     println("sum2: 3 + 5 = ${sum2}")
 
     val max1 = max1(3, 5)
-    println("max1: 3 + 5 = ${max1}")
+    println("max1: 3 , 5 = ${max1}")
 
     val max2 = max2(3, 5)
-    println("max2: 3 + 5 = ${max2}")
+    println("max2: 3 , 5 = ${max2}")
 }
 
 fun sum1(a: Int, b: Int): Int {
